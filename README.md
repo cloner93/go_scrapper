@@ -15,8 +15,8 @@ Ensure you have **Go** installed. If not, download it from [golang.org](https://
 
 Clone the repository:  
 ```sh
-git clone https://github.com/YOUR_USERNAME/gobyexample-scraper.git
-cd gobyexample-scraper
+git clone https://github.com/cloner93/go_scrapper.git
+cd go_scrapper
 ```
 
 Install dependencies:  
